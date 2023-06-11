@@ -14,7 +14,7 @@
 
 <h2>Descripción del proyecto</h2>
 <p>El repositorio contiene los siguientes archivos:</p>
-ul>
+<ul>
   <li>Archivo de código en Jupyter Notebook para realizar las tareas solicitadas.</li>
   <li>Archivo README.md (este archivo) que proporciona una descripción del proyecto.</li>
 </ul>
