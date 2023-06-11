@@ -1,5 +1,5 @@
-# El índice de marginalización de México
-##Proyecto de programación: Propedeuticos Maestria en Ciencia de Datos - Julio Waissman
+<h1> El índice de marginalización de México </h1>
+<h2>Proyecto de programación: Propedeuticos Maestria en Ciencia de Datos - Julio Waissman </h2>
 ***Este proyecto se hizo para aprobar los cursos **
 
 <h2> Las instrucciones fueron las siguientes</h2>
